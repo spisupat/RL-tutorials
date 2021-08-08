@@ -1,4 +1,4 @@
-# RL_tutorials
+# Reinforcement learning tutorials
 This repository contains a 3-part tutorial on basic reinforcement learning algorithms for across-trial and within-trial associative learning, both pavlovian and instrumental.
 * The first part covers Rescorla-Wagner learning, a classic error-based algorithm for associating stimuli with rewards across trials. 
 * The second part covers Temporal-Difference learning, which allows for learning temporal predictions of value within trials and second-order associations.
